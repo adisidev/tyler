@@ -1,7 +1,7 @@
 from PIL import Image
 import math
 
-img_name = "square-loop.png"
+img_name = "escher.jpg"
 
 inputImage = Image.open(img_name)
 img = inputImage
